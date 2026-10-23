@@ -1,0 +1,1294 @@
+[
+  {
+    "id": "paper-01",
+    "title": "Passive Pauli Toggling of Polarization Qubits in Optical Fibers: Error Bounds and QKD Performance",
+    "url": "https://arxiv.org/abs/2609.21373",
+    "venue": "arXiv:2609.21373",
+    "authors": [
+      "Bongjune Kim",
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "communication"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2026,
+    "date": "2026-09-18",
+    "arxiv": "https://arxiv.org/abs/2609.21373"
+  },
+  {
+    "id": "paper-02",
+    "title": "Phase-Flag Access and No-Go Constraints on Quotient-Space Real Quantum Mechanics",
+    "url": "https://arxiv.org/abs/2609.20226",
+    "venue": "arXiv:2609.20226",
+    "authors": [
+      "Jeongho Bang",
+      "Kyoungho Cho",
+      "Kyunghyun Baek"
+    ],
+    "themes": [
+      "information"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2026,
+    "date": "2026-07-27",
+    "arxiv": "https://arxiv.org/abs/2609.20226"
+  },
+  {
+    "id": "paper-03",
+    "title": "Coherence-generating power deviation: Fluctuations and input selectivity beyond average coherence generation",
+    "url": "https://arxiv.org/abs/2609.19046",
+    "venue": "arXiv:2609.19046",
+    "authors": [
+      "Kyoungho Cho",
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "information"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2026,
+    "date": "2026-07-21",
+    "arxiv": "https://arxiv.org/abs/2609.19046"
+  },
+  {
+    "id": "paper-04",
+    "title": "Hayden--Preskill recovery at finite temperature on a quantum processor: dynamics and initial state from the SYK model",
+    "url": "https://arxiv.org/abs/2607.28486",
+    "venue": "arXiv:2607.28486",
+    "authors": [
+      "Jeongho Bang",
+      "Moongul Byun",
+      "Kyoungho Cho",
+      "Keun-Young Kim",
+      "Hyeonsoo Lee"
+    ],
+    "themes": [
+      "information"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2026,
+    "date": "2026-07-30",
+    "arxiv": "https://arxiv.org/abs/2607.28486"
+  },
+  {
+    "id": "paper-05",
+    "title": "Exact No Signaling in Time without Temporal Classicality",
+    "url": "https://arxiv.org/abs/2607.14583",
+    "venue": "arXiv:2607.14583",
+    "authors": [
+      "Minsu Kim",
+      "Jeongho Bang",
+      "Han Seb Moon"
+    ],
+    "themes": [
+      "information"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2026,
+    "date": "2026-07-16",
+    "arxiv": "https://arxiv.org/abs/2607.14583"
+  },
+  {
+    "id": "paper-06",
+    "title": "Hidden Complex Structure in Quotient-Space Real Quantum Mechanics",
+    "url": "https://arxiv.org/abs/2607.05865",
+    "venue": "arXiv:2607.05865",
+    "authors": [
+      "Jeongho Bang",
+      "Kyoungho Cho",
+      "Kyunghyun Baek"
+    ],
+    "themes": [
+      "information"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2026,
+    "date": "2026-07-07",
+    "arxiv": "https://arxiv.org/abs/2607.05865"
+  },
+  {
+    "id": "paper-07",
+    "title": "Breaking the One-Dimensional Expressibility-Trainability Tradeoff",
+    "url": "https://arxiv.org/abs/2607.04598",
+    "venue": "arXiv:2607.04598",
+    "authors": [
+      "Kyoungho Cho",
+      "Yu-Seong Jeon",
+      "Jinhyoung Lee",
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "quantum-ai"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2026,
+    "date": "2026-07-06",
+    "arxiv": "https://arxiv.org/abs/2607.04598"
+  },
+  {
+    "id": "paper-08",
+    "title": "No Reference-Free Generalization in Quantum Machine Learning",
+    "url": "https://arxiv.org/abs/2606.22331",
+    "venue": "arXiv:2606.22331",
+    "authors": [
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "quantum-ai"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2026,
+    "date": "2026-06-21",
+    "arxiv": "https://arxiv.org/abs/2606.22331"
+  },
+  {
+    "id": "paper-09",
+    "title": "First-Quantized Relativistic Quantum Simulation with Periodic and Dirichlet Boundary Conditions",
+    "url": "https://arxiv.org/abs/2606.21794",
+    "venue": "arXiv:2606.21794",
+    "authors": [
+      "Jeongho Bang",
+      "Timothy P. Spiller",
+      "Kyunghyun Baek",
+      "Kyoungho Cho",
+      "Jaewoo Joo"
+    ],
+    "themes": [
+      "computing"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2026,
+    "date": "2026-06-19",
+    "arxiv": "https://arxiv.org/abs/2606.21794"
+  },
+  {
+    "id": "paper-10",
+    "title": "Quantum Occam Learning: Sample-Supported Expressibility for Circuit-Based Quantum Learning",
+    "url": "https://arxiv.org/abs/2606.12211",
+    "venue": "arXiv:2606.12211",
+    "authors": [
+      "Jeongho Bang",
+      "Kyoungho Cho",
+      "Jeongwoo Jae"
+    ],
+    "themes": [
+      "quantum-ai"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2026,
+    "date": "2026-06-10",
+    "arxiv": "https://arxiv.org/abs/2606.12211"
+  },
+  {
+    "id": "paper-11",
+    "title": "Learning with Active Quantum Subspaces: Scalable Hybrid Advantage without Full Quantum Data-Encoding",
+    "url": "https://arxiv.org/abs/2606.00932",
+    "venue": "arXiv:2606.00932",
+    "authors": [
+      "Jeongho Bang",
+      "Wooyeong Song",
+      "Kyoungho Cho",
+      "Taewan Kim",
+      "Yongsoo Hwang"
+    ],
+    "themes": [
+      "quantum-ai",
+      "computing"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2026,
+    "date": "2026-05-30",
+    "arxiv": "https://arxiv.org/abs/2606.00932"
+  },
+  {
+    "id": "paper-12",
+    "title": "Causal Fisher-Information Inequalities: Classical Causal Model Falsification and Metrological Advantage",
+    "url": "https://arxiv.org/abs/2605.19198",
+    "venue": "arXiv:2605.19198",
+    "authors": [
+      "Jeongho Bang",
+      "Su-Yong Lee"
+    ],
+    "themes": [
+      "communication"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2026,
+    "date": "2026-05-18",
+    "arxiv": "https://arxiv.org/abs/2605.19198"
+  },
+  {
+    "id": "paper-13",
+    "title": "Neural Information Causality",
+    "url": "https://arxiv.org/abs/2605.09316",
+    "venue": "arXiv:2605.09316",
+    "authors": [
+      "Jeongho Bang",
+      "Marcin Pawłowski"
+    ],
+    "themes": [
+      "quantum-ai"
+    ],
+    "selected": true,
+    "verified": true,
+    "status": "preprint",
+    "year": 2026,
+    "date": "2026-05-10",
+    "arxiv": "https://arxiv.org/abs/2605.09316"
+  },
+  {
+    "id": "paper-14",
+    "title": "Finite Imaginary-Time Evolution for Polynomial Unconstrained Binary Optimization",
+    "url": "https://arxiv.org/abs/2604.27482",
+    "venue": "arXiv:2604.27482",
+    "authors": [
+      "Jaehee Kim",
+      "Juhyeon Kim",
+      "Gwonhak Lee",
+      "Kyunghyun Baek",
+      "Daniel K. Park",
+      "Jeongho Bang",
+      "Joonsuk Huh"
+    ],
+    "themes": [
+      "computing"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2026,
+    "date": "2026-04-30",
+    "arxiv": "https://arxiv.org/abs/2604.27482"
+  },
+  {
+    "id": "paper-15",
+    "title": "Universality cost of non-Gaussian enhancement in continuous-variable quantum teleportation: A fidelity--deviation trade-off",
+    "url": "https://arxiv.org/abs/2604.20103",
+    "venue": "arXiv:2604.20103",
+    "authors": [
+      "Kyoungho Cho",
+      "Bongjune Kim",
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "communication"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2026,
+    "date": "2026-04-22",
+    "arxiv": "https://arxiv.org/abs/2604.20103"
+  },
+  {
+    "id": "paper-16",
+    "title": "Single-shot measurement learning as a self-certifying estimator for quantum-enhanced sensing",
+    "url": "https://arxiv.org/abs/2604.01534",
+    "venue": "arXiv:2604.01534",
+    "authors": [
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "quantum-ai",
+      "communication"
+    ],
+    "selected": true,
+    "verified": true,
+    "status": "preprint",
+    "year": 2026,
+    "date": "2026-04-02",
+    "arxiv": "https://arxiv.org/abs/2604.01534"
+  },
+  {
+    "id": "paper-17",
+    "title": "Sharpening Worst-Case Error Assessment for Fault-Tolerant Quantum Computing: Fidelity and Its Deviation",
+    "url": "https://arxiv.org/abs/2603.07495",
+    "venue": "arXiv:2603.07495",
+    "authors": [
+      "Kyoungho Cho",
+      "Ilkwon Sohn",
+      "Yongsoo Hwang",
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "information"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2026,
+    "date": "2026-03-08",
+    "arxiv": "https://arxiv.org/abs/2603.07495"
+  },
+  {
+    "id": "paper-18",
+    "title": "Physics-Aware Learnability: From Set-Theoretic Independence to Operational Constraints",
+    "url": "https://arxiv.org/abs/2603.00417",
+    "venue": "arXiv:2603.00417",
+    "authors": [
+      "Jeongho Bang",
+      "Kyoungho Cho"
+    ],
+    "themes": [
+      "information"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2026,
+    "date": "2026-02-28",
+    "arxiv": "https://arxiv.org/abs/2603.00417"
+  },
+  {
+    "id": "paper-19",
+    "title": "A rigorous hybridization of variational quantum eigensolver with classical neural network",
+    "url": "https://arxiv.org/abs/2602.17295",
+    "venue": "arXiv:2602.17295",
+    "authors": [
+      "Minwoo James Kim",
+      "Kyoung Keun Park",
+      "Kyungmin Lee",
+      "Jeongho Bang",
+      "Taehyun Kim"
+    ],
+    "themes": [
+      "quantum-ai",
+      "computing"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2026,
+    "date": "2026-02-19",
+    "arxiv": "https://arxiv.org/abs/2602.17295"
+  },
+  {
+    "id": "paper-20",
+    "title": "Run-length certificates in quantum learning: Sample complexity and noise thresholds",
+    "url": "https://journals.aps.org/pra/abstract/10.1103/cn9t-dynd",
+    "venue": "Physical Review A 113, 062601",
+    "authors": [
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "quantum-ai"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2026,
+    "date": "2026-06-01",
+    "doi": "https://doi.org/10.1103/cn9t-dynd"
+  },
+  {
+    "id": "paper-21",
+    "title": "Quantum Interference Needs Convention: Overlap-Determinability and Unified No-Superposition Principle",
+    "url": "https://arxiv.org/abs/2601.14638",
+    "venue": "arXiv:2601.14638",
+    "authors": [
+      "Jeongho Bang",
+      "Kyoungho Cho",
+      "Ki Hyuk Yee"
+    ],
+    "themes": [
+      "information"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2026,
+    "date": "2026-01-21",
+    "arxiv": "https://arxiv.org/abs/2601.14638"
+  },
+  {
+    "id": "paper-22",
+    "title": "Learning at the Edge of Causality: Optimal Learning-Sample Complexity from No-Signaling Constraints",
+    "url": "https://arxiv.org/abs/2601.12651",
+    "venue": "arXiv:2601.12651",
+    "authors": [
+      "Jeongho Bang",
+      "Kyoungho Cho",
+      "Jeongwoo Jae"
+    ],
+    "themes": [
+      "quantum-ai"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2026,
+    "date": "2026-01-19",
+    "arxiv": "https://arxiv.org/abs/2601.12651"
+  },
+  {
+    "id": "paper-23",
+    "title": "Witness wedges in fidelity-deviation plane: Separating teleportation advantage and Bell-inequality violation",
+    "url": "https://journals.aps.org/pra/abstract/10.1103/q9d2-5zv4",
+    "venue": "Physical Review A 113, 052458",
+    "authors": [
+      "Kyoungho Cho",
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "communication"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2026,
+    "date": "2026-05-29",
+    "doi": "https://doi.org/10.1103/q9d2-5zv4"
+  },
+  {
+    "id": "paper-24",
+    "title": "Quantum Amplitude-Amplification Eigensolver: A State-Learning-Assisted Approach beyond Energy-Gradient-Based Heuristics",
+    "url": "https://arxiv.org/abs/2511.12062",
+    "venue": "arXiv:2511.12062",
+    "authors": [
+      "Kyunghyun Baek",
+      "Seungjin Lee",
+      "Joonsuk Huh",
+      "Dongkeun Lee",
+      "Jinhyoung Lee",
+      "M. S. Kim",
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "quantum-ai",
+      "computing"
+    ],
+    "selected": true,
+    "verified": true,
+    "status": "preprint",
+    "year": 2025,
+    "date": "2025-11-15",
+    "arxiv": "https://arxiv.org/abs/2511.12062"
+  },
+  {
+    "id": "paper-25",
+    "title": "Secure PAC Learning: Sample-Budget Laws and Quantum Data-Path Admissibility",
+    "url": "https://arxiv.org/abs/2511.02479",
+    "venue": "arXiv:2511.02479",
+    "authors": [
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "quantum-ai",
+      "communication"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2025,
+    "date": "2025-11-04",
+    "arxiv": "https://arxiv.org/abs/2511.02479"
+  },
+  {
+    "id": "paper-26",
+    "title": "Fundamental limits to contrast reversal of survival probability correlations",
+    "url": "https://iopscience.iop.org/article/10.1088/1402-4896/ae6537",
+    "venue": "Physica Scripta 101, 185102",
+    "authors": [
+      "Kyoungho Cho",
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "information"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2026,
+    "date": "2026-05-06",
+    "doi": "https://doi.org/10.1088/1402-4896/ae6537"
+  },
+  {
+    "id": "paper-27",
+    "title": "Relativistic Quantum Simulation under Periodic and Dirichlet Boundary Conditions: A First-Quantised Framework for Near-Term Devices",
+    "url": "https://arxiv.org/abs/2509.22579",
+    "venue": "arXiv:2509.22579",
+    "authors": [
+      "Jaewoo Joo",
+      "Timothy P. Spiller",
+      "Kyunghyun Baek",
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "computing"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2025,
+    "date": "2025-09-26",
+    "arxiv": "https://arxiv.org/abs/2509.22579",
+    "related_id": "paper-09",
+    "related_label": "Substantially revised work"
+  },
+  {
+    "id": "paper-28",
+    "title": "Subspace Variational Quantum Simulation: Fidelity Lower Bounds as Measures of Training Success",
+    "url": "https://arxiv.org/abs/2509.06360",
+    "venue": "arXiv:2509.06360",
+    "authors": [
+      "Seung Park",
+      "Dongkeun Lee",
+      "Jeongho Bang",
+      "Hoon Ryu",
+      "Kyunghyun Baek"
+    ],
+    "themes": [
+      "computing"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2025,
+    "date": "2025-09-08",
+    "arxiv": "https://arxiv.org/abs/2509.06360"
+  },
+  {
+    "id": "paper-29",
+    "title": "Entangling power and its deviation: A quantitative analysis on input-state dependence and variability in entanglement generation",
+    "url": "https://journals.aps.org/pra/abstract/10.1103/fbyt-kdjk",
+    "venue": "Physical Review A 113, 012442",
+    "authors": [
+      "Kyoungho Cho",
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "information"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2026,
+    "date": "2026-01-28",
+    "doi": "https://doi.org/10.1103/fbyt-kdjk"
+  },
+  {
+    "id": "paper-30",
+    "title": "Ensuring superior learning outcomes and data security for authorized learner",
+    "url": "https://iopscience.iop.org/article/10.1088/2058-9565/adc501",
+    "venue": "Quantum Science and Technology 10, 025056",
+    "authors": [
+      "Jeongho Bang",
+      "Wooyeong Song",
+      "Kyujin Shin",
+      "Yong-Su Kim"
+    ],
+    "themes": [
+      "quantum-ai",
+      "communication"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2025,
+    "date": "2025-04-01",
+    "doi": "https://doi.org/10.1088/2058-9565/adc501"
+  },
+  {
+    "id": "paper-31",
+    "title": "Quantum Simulation of Dynamical Transition Rates in Open Quantum Systems",
+    "url": "https://arxiv.org/abs/2412.17229",
+    "venue": "arXiv:2412.17229",
+    "authors": [
+      "Robson Christie",
+      "Kyunghyun Baek",
+      "Jeongho Bang",
+      "Jaewoo Joo"
+    ],
+    "themes": [
+      "computing"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2024,
+    "date": "2024-12-23",
+    "arxiv": "https://arxiv.org/abs/2412.17229"
+  },
+  {
+    "id": "paper-32",
+    "title": "Quantum superposing algorithm for quantum encoding",
+    "url": "https://iopscience.iop.org/article/10.1088/1402-4896/ad80d9",
+    "venue": "Physica Scripta 99, 115110",
+    "authors": [
+      "Jaehee Kim",
+      "Taewan Kim",
+      "Kyunghyun Baek",
+      "Yongsoo Hwang",
+      "Joonsuk Huh",
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "computing"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2024,
+    "date": "2024-10-11",
+    "doi": "https://doi.org/10.1088/1402-4896/ad80d9"
+  },
+  {
+    "id": "paper-33",
+    "title": "Resource-compact time-optimal quantum computation",
+    "url": "https://arxiv.org/abs/2405.00191",
+    "venue": "arXiv:2405.00191",
+    "authors": [
+      "Taewan Kim",
+      "Kyunghyun Baek",
+      "Yongsoo Hwang",
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "computing"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2024,
+    "date": "2024-04-30",
+    "arxiv": "https://arxiv.org/abs/2405.00191"
+  },
+  {
+    "id": "paper-34",
+    "title": "Generalized Euler angles for a unitary control of the Hamiltonian system",
+    "url": "https://arxiv.org/abs/2304.14624",
+    "venue": "arXiv:2304.14624",
+    "authors": [
+      "Seungjin Lee",
+      "Kyunghyun Baek",
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "information"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2023,
+    "date": "2023-04-28",
+    "arxiv": "https://arxiv.org/abs/2304.14624"
+  },
+  {
+    "id": "paper-35",
+    "title": "T-depth-optimized quantum search with quantum data-access machine",
+    "url": "https://iopscience.iop.org/article/10.1088/2058-9565/ad04e5",
+    "venue": "Quantum Science and Technology 9, 015011",
+    "authors": [
+      "Jung Jun Park",
+      "Kyunghyun Baek",
+      "M S Kim",
+      "Hyunchul Nha",
+      "Jaewan Kim",
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "information"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2023,
+    "date": "2023-11-01",
+    "doi": "https://doi.org/10.1088/2058-9565/ad04e5"
+  },
+  {
+    "id": "paper-36",
+    "title": "Polynomial T-depth quantum solvability of noisy binary linear problem: from quantum-sample preparation to main computation",
+    "url": "https://iopscience.iop.org/article/10.1088/1367-2630/ac94ef",
+    "venue": "New Journal of Physics 24, 103014",
+    "authors": [
+      "Wooyeong Song",
+      "Youngrong Lim",
+      "Kabgyun Jeong",
+      "Jinhyoung Lee",
+      "Jung Jun Park",
+      "M S Kim",
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "computing"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2022,
+    "date": "2022-10-01",
+    "doi": "https://doi.org/10.1088/1367-2630/ac94ef"
+  },
+  {
+    "id": "paper-37",
+    "title": "Average fidelity and fidelity deviation in noisy quantum teleportation",
+    "url": "https://link.springer.com/article/10.1007/s40042-021-00097-z",
+    "venue": "Journal of the Korean Physical Society 78, 496-503",
+    "authors": [
+      "Wooyeong Song",
+      "Junghee Ryu",
+      "Kyunghyun Baek",
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "communication"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2021,
+    "date": "2021-02-22",
+    "doi": "https://doi.org/10.1007/s40042-021-00097-z"
+  },
+  {
+    "id": "paper-38",
+    "title": "Quantum State Learning via Single-Shot Measurements",
+    "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.170504",
+    "venue": "Physical Review Letters 126, 170504",
+    "authors": [
+      "Sang Min Lee",
+      "Hee Su Park",
+      "Jinhyoung Lee",
+      "Jaewan Kim",
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "quantum-ai"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2021,
+    "date": "2021-04-30",
+    "doi": "https://doi.org/10.1103/physrevlett.126.170504"
+  },
+  {
+    "id": "paper-39",
+    "title": "Quantum secure learning with classical samples",
+    "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.042409",
+    "venue": "Physical Review A 103, 042409",
+    "authors": [
+      "Wooyeong Song",
+      "Youngrong Lim",
+      "Hyukjoon Kwon",
+      "Gerardo Adesso",
+      "Marcin Wieśniak",
+      "Marcin Pawłowski",
+      "Jaewan Kim",
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "quantum-ai",
+      "communication"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2021,
+    "date": "2021-04-08",
+    "doi": "https://doi.org/10.1103/physreva.103.042409"
+  },
+  {
+    "id": "paper-40",
+    "title": "Quantum solvability of noisy linear problems by divide-and-conquer strategy",
+    "url": "https://iopscience.iop.org/article/10.1088/2058-9565/ac51b0",
+    "venue": "Quantum Science and Technology 7, 025009",
+    "authors": [
+      "Wooyeong Song",
+      "Youngrong Lim",
+      "Kabgyun Jeong",
+      "Yun-Seong Ji",
+      "Jinhyoung Lee",
+      "Jaewan Kim",
+      "M S Kim",
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "information"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2022,
+    "date": "2022-03-01",
+    "doi": "https://doi.org/10.1088/2058-9565/ac51b0"
+  },
+  {
+    "id": "paper-41",
+    "title": "Tangible reduction in learning sample complexity with large classical samples and small quantum system",
+    "url": "https://link.springer.com/article/10.1007/s11128-021-03217-7",
+    "venue": "Quantum Information Processing 20, 275",
+    "authors": [
+      "Wooyeong Song",
+      "Marcin Wieśniak",
+      "Nana Liu",
+      "Marcin Pawłowski",
+      "Jinhyoung Lee",
+      "Jaewan Kim",
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "quantum-ai"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2021,
+    "date": "2021-08",
+    "doi": "https://doi.org/10.1007/s11128-021-03217-7"
+  },
+  {
+    "id": "paper-42",
+    "title": "Optimal usage of quantum random access memory in quantum machine learning",
+    "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.012326",
+    "venue": "Physical Review A 99, 012326",
+    "authors": [
+      "Jeongho Bang",
+      "Arijit Dutta",
+      "Seung-Woo Lee",
+      "Jaewan Kim"
+    ],
+    "themes": [
+      "quantum-ai"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2019,
+    "date": "2019-01-16",
+    "doi": "https://doi.org/10.1103/physreva.99.012326"
+  },
+  {
+    "id": "paper-43",
+    "title": "Learning unknown pure quantum states",
+    "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.052302",
+    "venue": "Physical Review A 98, 052302",
+    "authors": [
+      "Sang Min Lee",
+      "Jinhyoung Lee",
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "quantum-ai"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2018,
+    "date": "2018-11-02",
+    "doi": "https://doi.org/10.1103/physreva.98.052302"
+  },
+  {
+    "id": "paper-44",
+    "title": "Experimental Demonstration on Quantum Sensitivity to Available Information in Decision Making",
+    "url": "https://www.nature.com/articles/s41598-018-36945-5",
+    "venue": "Scientific Reports 9, 681",
+    "authors": [
+      "Joong-Sung Lee",
+      "Jeongho Bang",
+      "Jinhyoung Lee",
+      "Kwang-Geol Lee"
+    ],
+    "themes": [
+      "information"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2019,
+    "date": "2019-01-24",
+    "doi": "https://doi.org/10.1038/s41598-018-36945-5"
+  },
+  {
+    "id": "paper-45",
+    "title": "Two-particle indistinguishability and identification of boson and fermion species: a Fisher information approach",
+    "url": "https://link.springer.com/article/10.1007/s11128-019-2379-2",
+    "venue": "Quantum Information Processing 18, 263",
+    "authors": [
+      "Su-Yong Lee",
+      "Jeongho Bang",
+      "Jaewan Kim"
+    ],
+    "themes": [
+      "communication"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2019,
+    "date": "2019-07-16",
+    "doi": "https://doi.org/10.1007/s11128-019-2379-2"
+  },
+  {
+    "id": "paper-46",
+    "title": "Fidelity deviation in quantum teleportation",
+    "url": "https://iopscience.iop.org/article/10.1088/1751-8121/aaac35",
+    "venue": "Journal of Physics A: Mathematical and Theoretical 51, 135302",
+    "authors": [
+      "Jeongho Bang",
+      "Junghee Ryu",
+      "Dagomir Kaszlikowski"
+    ],
+    "themes": [
+      "communication"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2018,
+    "date": "2018-02-26",
+    "doi": "https://doi.org/10.1088/1751-8121/aaac35"
+  },
+  {
+    "id": "paper-47",
+    "title": "Experimental demonstration of quantum learning speedup with classical input data",
+    "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.012313",
+    "venue": "Physical Review A 99, 012313",
+    "authors": [
+      "Joong-Sung Lee",
+      "Jeongho Bang",
+      "Sunghyuk Hong",
+      "Changhyoup Lee",
+      "Kang Hee Seol",
+      "Jinhyoung Lee",
+      "Kwang-Geol Lee"
+    ],
+    "themes": [
+      "quantum-ai"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2019,
+    "date": "2019-01-10",
+    "doi": "https://doi.org/10.1103/physreva.99.012313"
+  },
+  {
+    "id": "paper-48",
+    "title": "Preparation-Attack-Immune Quantum Secure Direct Communication Using Two-Fold Photon Degree of Freedom",
+    "url": "https://arxiv.org/abs/1704.01261",
+    "venue": "arXiv:1704.01261",
+    "authors": [
+      "Jihong Min",
+      "Jeongho Bang",
+      "B. S. Ham"
+    ],
+    "themes": [
+      "communication"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2017,
+    "date": "2017-04-05",
+    "arxiv": "https://arxiv.org/abs/1704.01261"
+  },
+  {
+    "id": "paper-49",
+    "title": "Quantifiable simulation of quantum computation beyond stochastic ensemble computation",
+    "url": "https://arxiv.org/abs/1604.07517",
+    "venue": "arXiv:1604.07517",
+    "authors": [
+      "Jeongho Bang",
+      "Junghee Ryu",
+      "Chang-Woo Lee",
+      "Ki Hyuk Yee",
+      "Jinhyoung Lee",
+      "Wonmin Son"
+    ],
+    "themes": [
+      "computing"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2016,
+    "date": "2016-04-26",
+    "arxiv": "https://arxiv.org/abs/1604.07517"
+  },
+  {
+    "id": "paper-50",
+    "title": "Quantum macroscopicity measure for arbitrary spin systems and its application to quantum phase transitions",
+    "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.052105",
+    "venue": "Physical Review A 94, 052105",
+    "authors": [
+      "Chae-Yeun Park",
+      "Minsu Kang",
+      "Chang-Woo Lee",
+      "Jeongho Bang",
+      "Seung-Woo Lee",
+      "Hyunseok Jeong"
+    ],
+    "themes": [
+      "information"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2016,
+    "date": "2016-11-08",
+    "doi": "https://doi.org/10.1103/physreva.94.052105"
+  },
+  {
+    "id": "paper-51",
+    "title": "Quantum-mechanical machinery for rational decision-making in classical guessing game",
+    "url": "https://www.nature.com/articles/srep21424",
+    "venue": "Scientific Reports 6, 21424",
+    "authors": [
+      "Jeongho Bang",
+      "Junghee Ryu",
+      "Marcin Pawłowski",
+      "Byoung S. Ham",
+      "Jinhyoung Lee"
+    ],
+    "themes": [
+      "information"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2016,
+    "date": "2016-02-15",
+    "doi": "https://doi.org/10.1038/srep21424"
+  },
+  {
+    "id": "paper-52",
+    "title": "Protocol for secure quantum machine learning at a distant place",
+    "url": "https://link.springer.com/article/10.1007/s11128-015-1089-7",
+    "venue": "Quantum Information Processing 14, 3933-3947",
+    "authors": [
+      "Jeongho Bang",
+      "Seung-Woo Lee",
+      "Hyunseok Jeong"
+    ],
+    "themes": [
+      "quantum-ai",
+      "communication"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2015,
+    "date": "2015-08-07",
+    "doi": "https://doi.org/10.1007/s11128-015-1089-7"
+  },
+  {
+    "id": "paper-53",
+    "title": "Experimental demonstration of error-insensitive approximate universal-NOT gates",
+    "url": "https://arxiv.org/abs/1403.4004",
+    "venue": "arXiv:1403.4004",
+    "authors": [
+      "Sang Min Lee",
+      "Jeongho Bang",
+      "Heonoh Kim",
+      "Hyunseok Jeong",
+      "Jinhyoung Lee",
+      "Han Seb Moon"
+    ],
+    "themes": [
+      "information"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2014,
+    "date": "2014-03-17",
+    "arxiv": "https://arxiv.org/abs/1403.4004"
+  },
+  {
+    "id": "paper-54",
+    "title": "A genetic-algorithm-based method to find unitary transformations for any desired quantum computation and application to a one-bit oracle decision problem",
+    "url": "https://link.springer.com/article/10.3938/jkps.65.2001",
+    "venue": "Journal of the Korean Physical Society 65, 2001-2008",
+    "authors": [
+      "Jeongho Bang",
+      "Seokwon Yoo"
+    ],
+    "themes": [
+      "computing"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2014,
+    "date": "2014-12",
+    "doi": "https://doi.org/10.3938/jkps.65.2001"
+  },
+  {
+    "id": "paper-55",
+    "title": "Inseparability criterion using higher-order Schrödinger–Robertson uncertainty relation",
+    "url": "https://opg.optica.org/josab/abstract.cfm?uri=josab-31-4-656",
+    "venue": "Journal of the Optical Society of America B 31, 656",
+    "authors": [
+      "Chang-Woo Lee",
+      "Junghee Ryu",
+      "Jeongho Bang",
+      "Hyunchul Nha"
+    ],
+    "themes": [
+      "information"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2014,
+    "date": "2014-03-03",
+    "doi": "https://doi.org/10.1364/josab.31.000656"
+  },
+  {
+    "id": "paper-56",
+    "title": "A quantum speedup in machine learning: finding an N-bit Boolean function for a classification",
+    "url": "https://iopscience.iop.org/article/10.1088/1367-2630/16/10/103014",
+    "venue": "New Journal of Physics 16, 103014",
+    "authors": [
+      "Seokwon Yoo",
+      "Jeongho Bang",
+      "Changhyoup Lee",
+      "Jinhyoung Lee"
+    ],
+    "themes": [
+      "quantum-ai"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2014,
+    "date": "2014-10-09",
+    "doi": "https://doi.org/10.1088/1367-2630/16/10/103014"
+  },
+  {
+    "id": "paper-57",
+    "title": "A strategy for quantum algorithm design assisted by machine learning",
+    "url": "https://iopscience.iop.org/article/10.1088/1367-2630/16/7/073017",
+    "venue": "New Journal of Physics 16, 073017",
+    "authors": [
+      "Jeongho Bang",
+      "Junghee Ryu",
+      "Seokwon Yoo",
+      "Marcin Pawłowski",
+      "Jinhyoung Lee"
+    ],
+    "themes": [
+      "quantum-ai",
+      "computing"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2014,
+    "date": "2014-07-14",
+    "doi": "https://doi.org/10.1088/1367-2630/16/7/073017"
+  },
+  {
+    "id": "paper-58",
+    "title": "A quantum algorithm for obtaining the lowest eigenstate of a Hamiltonian assisted with an ancillary qubit system",
+    "url": "https://link.springer.com/article/10.1007/s11128-014-0836-5",
+    "venue": "Quantum Information Processing 14, 103-118",
+    "authors": [
+      "Jeongho Bang",
+      "Seung-Woo Lee",
+      "Chang-Woo Lee",
+      "Hyunseok Jeong"
+    ],
+    "themes": [
+      "computing"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2014,
+    "date": "2014-10-07",
+    "doi": "https://doi.org/10.1007/s11128-014-0836-5"
+  },
+  {
+    "id": "paper-59",
+    "title": "Procedures for realizing an approximate universal-not gate",
+    "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.86.062317",
+    "venue": "Physical Review A 86, 062317",
+    "authors": [
+      "Jeongho Bang",
+      "Seung-Woo Lee",
+      "Hyunseok Jeong",
+      "Jinhyoung Lee"
+    ],
+    "themes": [
+      "information"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2012,
+    "date": "2012-12-18",
+    "doi": "https://doi.org/10.1103/physreva.86.062317"
+  },
+  {
+    "id": "paper-60",
+    "title": "A quantum heuristic algorithm for the traveling salesman problem",
+    "url": "https://link.springer.com/article/10.3938/jkps.61.1944",
+    "venue": "Journal of the Korean Physical Society 61, 1944-1949",
+    "authors": [
+      "Jeongho Bang",
+      "Junghee Ryu",
+      "Changhyoup Lee",
+      "Seokwon Yoo",
+      "James Lim",
+      "Jinhyoung Lee"
+    ],
+    "themes": [
+      "computing"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2012,
+    "date": "2012-12",
+    "doi": "https://doi.org/10.3938/jkps.61.1944"
+  },
+  {
+    "id": "paper-61",
+    "title": "Quantum Learning Machine",
+    "url": "https://arxiv.org/abs/0803.2976",
+    "venue": "arXiv:0803.2976",
+    "authors": [
+      "Jeongho Bang",
+      "James Lim",
+      "M. S. Kim",
+      "Jinhyoung Lee"
+    ],
+    "themes": [
+      "quantum-ai"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2008,
+    "date": "2008-03-20",
+    "arxiv": "https://arxiv.org/abs/0803.2976"
+  }
+]

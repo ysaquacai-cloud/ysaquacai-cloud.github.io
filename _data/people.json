@@ -1,0 +1,83 @@
+[
+  {
+    "id": "jeongho-bang",
+    "name": "JeongHo Bang",
+    "role": "Associate Professor",
+    "group": "Principal investigator",
+    "interests": "Quantum information, quantum computing, and artificial intelligence",
+    "email": "jbang@yonsei.ac.kr",
+    "initials": "JB"
+  },
+  {
+    "id": "kyoungho-cho",
+    "name": "Kyoungho Cho",
+    "role": "Postdoctoral Researcher",
+    "group": "Postdoctoral researchers",
+    "interests": "Quantum gravity · Quantum information theory · Quantum machine learning",
+    "email": "khcho23@yonsei.ac.kr",
+    "initials": "KC"
+  },
+  {
+    "id": "seunghoon-choi",
+    "name": "Seunghoon Choi",
+    "role": "PhD Student",
+    "group": "Graduate students",
+    "interests": "Sample-based quantum algorithms · Learning with errors",
+    "email": "chltmdwkd@yonsei.ac.kr",
+    "initials": "SC"
+  },
+  {
+    "id": "jisub-lee",
+    "name": "Jisub Lee",
+    "role": "MS Student",
+    "group": "Graduate students",
+    "interests": "Quantum optimization · Quantum amplitude-amplification eigensolvers",
+    "email": "jisublee@yonsei.ac.kr",
+    "initials": "JL"
+  },
+  {
+    "id": "go-eun-lee",
+    "name": "Go Eun Lee",
+    "role": "MS Student",
+    "group": "Graduate students",
+    "interests": "",
+    "email": "",
+    "initials": "GE"
+  },
+  {
+    "id": "jisoo-oh",
+    "name": "Jisoo Oh",
+    "role": "MS Student",
+    "group": "Graduate students",
+    "interests": "Quantum machine learning · Quantum algorithms",
+    "email": "jisoo.oh@yonsei.ac.kr",
+    "initials": "JO"
+  },
+  {
+    "id": "han-lim",
+    "name": "Han Lim",
+    "role": "MS Student",
+    "group": "Graduate students",
+    "interests": "Quantum machine learning · Quantum computing",
+    "email": "najooimhan3@yonsei.ac.kr",
+    "initials": "HL"
+  },
+  {
+    "id": "sangsun-lee",
+    "name": "Sangsun Lee",
+    "role": "MS Student",
+    "group": "Graduate students",
+    "interests": "Quantum information theory · Quantum security",
+    "email": "ailove@yonsei.ac.kr",
+    "initials": "SL"
+  },
+  {
+    "id": "jinnam-an",
+    "name": "Jinnam An",
+    "role": "MS Student",
+    "group": "Graduate students",
+    "interests": "Quantum algorithms · Quantum machine learning · Quantum key distribution",
+    "email": "a9j4com@yonsei.ac.kr",
+    "initials": "JA"
+  }
+]

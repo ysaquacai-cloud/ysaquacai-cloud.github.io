@@ -1,10 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My GitHub Pages Site</title>
-</head>
-<body>
-    <h1>Hello World!</h1>
-    <p>Welcome to my brand new website.</p>
-</body>
-</html>
+---
+nav: Home
+description: Exploring quantum information, computing, and artificial intelligence at Yonsei University.
+---
+<section class="hero"><div class="container hero-grid"><div class="hero-copy"><p class="eyebrow"><span class="tiny-square"></span> A QUANTUM RESEARCH LAB AT YONSEI</p><h1>Information.<br>Intelligence.<br><em>Quantum possibility.</em></h1><p class="hero-subtitle">Advanced Quantum Computing<br>and Artificial Intelligence</p><p class="hero-description">We explore the foundations of quantum information and develop methods for computing, learning, communication, and sensing.</p><div class="actions"><a class="button" href="{{ '/research/' | relative_url }}">Explore our research <span aria-hidden="true">↗</span></a><a class="text-link" href="{{ '/people/' | relative_url }}">Meet the team <span aria-hidden="true">→</span></a></div></div><figure class="hero-figure"><img src="{{ '/assets/images/quantum-field.svg' | relative_url }}" alt="Illustration of a quantum state on a Bloch sphere connected to a three-qubit circuit" width="640" height="650"><figcaption><span>01 / QUANTUM INFORMATION</span><span>From foundations to possibility</span></figcaption></figure></div></section>
+<section class="intro-strip"><div class="container"><p class="eyebrow">OUR APPROACH</p><p>Fundamental questions.<br><strong>New computational perspectives.</strong></p><p>From the principles of quantum mechanics to the design of algorithms, we investigate how information can be represented, processed, and learned.</p></div></section>
+<section class="section container"><div class="section-heading"><div><p class="eyebrow">RESEARCH DIRECTIONS</p><h2>Four ways into<br>the quantum world.</h2></div><a class="text-link" href="{{ '/research/' | relative_url }}">Discover our research →</a></div><div class="research-grid">{% for theme in site.data.research %}<a class="research-card" href="{{ '/research/' | relative_url }}#{{ theme.id }}"><div class="card-top"><span>{{ theme.number }}</span><span aria-hidden="true">↗</span></div><h3>{{ theme.title }}</h3><p>{{ theme.short }}</p><span class="card-rule"></span></a>{% endfor %}</div></section>
+<section class="section selected-section"><div class="container"><div class="section-heading"><div><p class="eyebrow">SELECTED WORK</p><h2>Ideas in progress.<br>Research in the open.</h2></div><a class="text-link" href="{{ '/publications/' | relative_url }}">All publications →</a></div><div class="selected-grid">{% assign selected = site.data.publications | where: 'selected', true %}{% for paper in selected %}{% include publication.html paper=paper %}{% endfor %}</div></div></section>
+<section class="section container"><div class="section-heading"><div><p class="eyebrow">FROM THE LAB</p><h2>News & events.</h2></div><a class="text-link" href="{{ '/news/' | relative_url }}">News archive →</a></div>{% for item in site.data.news limit:3 %}<article class="news-row"><time datetime="{{ item.date }}">{{ item.display_date }}</time><h3>{{ item.title }}</h3><span class="news-category">{{ item.category }}</span></article>{% endfor %}</section>
+<section class="contact-band"><div class="container"><div><p class="eyebrow">LET’S CONNECT</p><h2>Curious about quantum research?</h2><p>Start a conversation about our work, research interests, or opportunities to collaborate.</p></div><a class="button light" href="{{ '/contact/' | relative_url }}">Get in touch <span aria-hidden="true">↗</span></a></div></section>

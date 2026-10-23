@@ -1,0 +1,6 @@
+source "https://rubygems.org"
+gem "jekyll", "3.10.0"
+gem "i18n", "1.14.7"
+gem "ffi", "1.15.5"
+gem "webrick", "~> 1.9"
+gem "minitest", "5.15.0"

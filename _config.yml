@@ -1,0 +1,11 @@
+title: AQua.CAI
+url: "https://ysaquacai-cloud.github.io"
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+exclude: [Gemfile, Gemfile.lock, README.md, docs, scripts, tests, vendor, .bundle]
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

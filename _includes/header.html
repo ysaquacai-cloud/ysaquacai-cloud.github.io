@@ -1,0 +1,5 @@
+<header class="site-header"><div class="container header-inner">
+<a class="brand" href="{{ '/' | relative_url }}" aria-label="AQua.CAI home"><span class="brand-mark" aria-hidden="true">a<span>q</span></span><span>AQua<span class="brand-dot">.</span>CAI<small>YONSEI UNIVERSITY</small></span></a>
+<button class="menu-toggle" aria-controls="primary-navigation" aria-expanded="false" hidden>Menu <span aria-hidden="true">☰</span></button>
+<nav id="primary-navigation" aria-label="Main navigation">{% for item in site.data.site.navigation %}<a href="{{ item.url | relative_url }}" {% if page.nav == item.name %}aria-current="page"{% endif %}>{{ item.name | escape }}</a>{% endfor %}</nav>
+</div></header>

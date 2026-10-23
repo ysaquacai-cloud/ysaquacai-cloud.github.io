@@ -1,0 +1,5 @@
+---
+title: News & Events
+description: News and events from AQua.CAI at Yonsei University.
+---
+<section class="page-hero container"><p class="eyebrow">FROM THE LAB</p><h1>Conversations.<br><em>Connections. Discovery.</em></h1><p class="lead">Events from the lab’s research calendar.</p></section><section class="container news-archive"><h2>2026</h2>{% for item in site.data.news %}<article class="news-row"><time datetime="{{ item.date }}">{{ item.display_date }}</time><div><h3>{{ item.title }}</h3><p>{{ item.summary }}</p></div><span class="news-category">{{ item.category }}</span></article>{% endfor %}<p class="archive-note">Looking for research updates? Explore our <a href="{{ '/publications/' | relative_url }}">latest publications and preprints</a>.</p></section>
