@@ -5,8 +5,9 @@
     "role": "Associate Professor",
     "group": "Principal investigator",
     "interests": "Quantum information, quantum computing, and artificial intelligence",
-    "email": "jbang@yonsei.ac.kr",
-    "initials": "JB"
+    "email": "jbang@",
+    "initials": "JB",
+    "image": "/assets/images/people_images/jeongho-bang.png"
   },
   {
     "id": "kyoungho-cho",
@@ -14,8 +15,19 @@
     "role": "Postdoctoral Researcher",
     "group": "Postdoctoral researchers",
     "interests": "Quantum gravity · Quantum information theory · Quantum machine learning",
-    "email": "khcho23@yonsei.ac.kr",
-    "initials": "KC"
+    "email": "khcho23@",
+    "initials": "KC",
+    "image": "/assets/images/people_images/kyoungho-cho.jpeg"
+  },
+  {
+    "id": "minsu-kim",
+    "name": "Minsu Kim",
+    "role": "Postdoctoral Researcher",
+    "group": "Postdoctoral researchers",
+    "interests": "Quantum Information Theory · Quantum Nonlocality · Weak Measurement",
+    "email": "shuypigel@",
+    "initials": "MK",
+    "image": "/assets/images/people_images/minsu-kim.jpg"
   },
   {
     "id": "seunghoon-choi",
@@ -23,8 +35,9 @@
     "role": "PhD Student",
     "group": "Graduate students",
     "interests": "Sample-based quantum algorithms · Learning with errors",
-    "email": "chltmdwkd@yonsei.ac.kr",
-    "initials": "SC"
+    "email": "chltmdwkd@",
+    "initials": "SC",
+    "image": "/assets/images/people_images/seunghoon-choi.jpeg"
   },
   {
     "id": "jisub-lee",
@@ -32,17 +45,19 @@
     "role": "MS Student",
     "group": "Graduate students",
     "interests": "Quantum optimization · Quantum amplitude-amplification eigensolvers",
-    "email": "jisublee@yonsei.ac.kr",
-    "initials": "JL"
+    "email": "jisublee@",
+    "initials": "JL",
+    "image": "/assets/images/people_images/jisub-lee.jpeg"
   },
   {
     "id": "go-eun-lee",
     "name": "Go Eun Lee",
     "role": "MS Student",
     "group": "Graduate students",
-    "interests": "",
-    "email": "",
-    "initials": "GE"
+    "interests": "Quantum Machine Learning · Quantum Security · Quantum Algorithm",
+    "email": "dbsal0320@",
+    "initials": "GE",
+    "image": "/assets/images/people_images/go-eun-lee.jpg"
   },
   {
     "id": "jisoo-oh",
@@ -50,8 +65,9 @@
     "role": "MS Student",
     "group": "Graduate students",
     "interests": "Quantum machine learning · Quantum algorithms",
-    "email": "jisoo.oh@yonsei.ac.kr",
-    "initials": "JO"
+    "email": "jisoo.oh@",
+    "initials": "JO",
+    "image": "/assets/images/people_images/jisoo-oh.jpeg"
   },
   {
     "id": "han-lim",
@@ -59,8 +75,9 @@
     "role": "MS Student",
     "group": "Graduate students",
     "interests": "Quantum machine learning · Quantum computing",
-    "email": "najooimhan3@yonsei.ac.kr",
-    "initials": "HL"
+    "email": "najooimhan3@",
+    "initials": "HL",
+    "image": "/assets/images/people_images/han-lim.png"
   },
   {
     "id": "sangsun-lee",
@@ -68,8 +85,9 @@
     "role": "MS Student",
     "group": "Graduate students",
     "interests": "Quantum information theory · Quantum security",
-    "email": "ailove@yonsei.ac.kr",
-    "initials": "SL"
+    "email": "ailove@",
+    "initials": "SL",
+    "image": "/assets/images/people_images/sangsun-lee.png"
   },
   {
     "id": "jinnam-an",
@@ -77,7 +95,8 @@
     "role": "MS Student",
     "group": "Graduate students",
     "interests": "Quantum algorithms · Quantum machine learning · Quantum key distribution",
-    "email": "a9j4com@yonsei.ac.kr",
-    "initials": "JA"
+    "email": "a9j4com@",
+    "initials": "JA",
+    "image": "/assets/images/people_images/jinnam-an.png"
   }
 ]
