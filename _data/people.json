@@ -40,6 +40,16 @@
     "image": "/assets/images/people_images/seunghoon-choi.jpeg"
   },
   {
+    "id": "jisu-han",
+    "name": "Jisu Han",
+    "role": "MS Student",
+    "group": "Graduate students",
+    "interests": "QML · Quantum Algorithm",
+    "email": "dksj125@",
+    "initials": "JH",
+    "image": "/assets/images/people_images/jisu-han.jpeg"
+  },
+  {
     "id": "jisub-lee",
     "name": "Jisub Lee",
     "role": "MS Student",
@@ -60,16 +70,6 @@
     "image": "/assets/images/people_images/go-eun-lee.jpg"
   },
   {
-    "id": "jisoo-oh",
-    "name": "Jisoo Oh",
-    "role": "MS Student",
-    "group": "Graduate students",
-    "interests": "Quantum machine learning · Quantum algorithms",
-    "email": "jisoo.oh@",
-    "initials": "JO",
-    "image": "/assets/images/people_images/jisoo-oh.jpeg"
-  },
-  {
     "id": "han-lim",
     "name": "Han Lim",
     "role": "MS Student",
@@ -78,6 +78,16 @@
     "email": "najooimhan3@",
     "initials": "HL",
     "image": "/assets/images/people_images/han-lim.png"
+  },
+  {
+    "id": "jisoo-oh",
+    "name": "Jisoo Oh",
+    "role": "MS Student",
+    "group": "Graduate students",
+    "interests": "Quantum machine learning · Quantum algorithms",
+    "email": "jisoo.oh@",
+    "initials": "JO",
+    "image": "/assets/images/people_images/jisoo-oh.jpeg"
   },
   {
     "id": "sangsun-lee",
