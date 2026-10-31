@@ -1,19 +1,19 @@
 [
   {
-    "id": "information",
+    "id": "quantum-ai",
     "number": "01",
-    "title": "Quantum Information Science",
-    "short": "Understanding the information at the heart of quantum mechanics.",
-    "description": "We investigate how quantum systems store, transform, and reveal information. Our theoretical work examines coherence, entanglement, causality, and the operational limits of quantum processes. These questions provide a foundation for understanding what quantum technologies can achieve—and under which conditions.",
+    "title": "Quantum Machine Learning & AI",
+    "short": "Exploring the relationship between learning and quantum information.",
+    "description": "We study learning through the lens of quantum information, from the limits of learnability to hybrid quantum–classical methods. Our work asks how physical constraints shape sample complexity, data access, and generalization. Projects including Neural Information Causality connect information-theoretic principles with the design and analysis of learning systems.",
     "focus": [
-      "Quantum foundations and causality",
-      "Coherence and entanglement",
-      "Fidelity and fluctuations"
+      "Quantum learning theory",
+      "Hybrid quantum–classical learning",
+      "Information causality and generalization"
     ],
     "papers": [
-      "paper-03",
-      "paper-05",
-      "paper-43"
+      "paper-13",
+      "paper-10",
+      "paper-19"
     ]
   },
   {
@@ -34,25 +34,8 @@
     ]
   },
   {
-    "id": "quantum-ai",
-    "number": "03",
-    "title": "Quantum Machine Learning & AI",
-    "short": "Exploring the relationship between learning and quantum information.",
-    "description": "We study learning through the lens of quantum information, from the limits of learnability to hybrid quantum–classical methods. Our work asks how physical constraints shape sample complexity, data access, and generalization. Projects including Neural Information Causality connect information-theoretic principles with the design and analysis of learning systems.",
-    "focus": [
-      "Quantum learning theory",
-      "Hybrid quantum–classical learning",
-      "Information causality and generalization"
-    ],
-    "papers": [
-      "paper-13",
-      "paper-10",
-      "paper-19"
-    ]
-  },
-  {
     "id": "communication",
-    "number": "04",
+    "number": "03",
     "title": "Quantum Communication & Sensing",
     "short": "Using quantum information to communicate, measure, and infer.",
     "description": "We investigate quantum communication and measurement through information-theoretic models and protocols. Research topics include quantum teleportation, secure learning, and measurement-based sensing. We examine both average performance and its variability to understand the resources and limitations of quantum-assisted tasks.",
@@ -65,6 +48,23 @@
       "paper-16",
       "paper-01",
       "paper-46"
+    ]
+  },
+  {
+    "id": "information",
+    "number": "04",
+    "title": "Quantum Information Science",
+    "short": "Understanding the information at the heart of quantum mechanics.",
+    "description": "We investigate how quantum systems store, transform, and reveal information. Our theoretical work examines coherence, entanglement, causality, and the operational limits of quantum processes. These questions provide a foundation for understanding what quantum technologies can achieve—and under which conditions.",
+    "focus": [
+      "Quantum foundations and causality",
+      "Coherence and entanglement",
+      "Fidelity and fluctuations"
+    ],
+    "papers": [
+      "paper-03",
+      "paper-05",
+      "paper-43"
     ]
   }
 ]

@@ -1,5 +1,27 @@
 [
   {
+    "id": "paper-62",
+    "title": "The Classical Boundary of Quantum Computation: History-Resolved Causal Stochastic Machines and the Cost of Classicalization",
+    "url": "https://arxiv.org/abs/2610.22750",
+    "venue": "arXiv:2610.22750",
+    "authors": [
+      "Kyoungho Cho",
+      "Junghee Ryu",
+      "Minsu Kim",
+      "Jeongho Bang"
+    ],
+    "themes": [
+      "computing",
+      "information"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2026,
+    "date": "2026-10-15",
+    "arxiv": "https://arxiv.org/abs/2610.22750"
+  },
+  {
     "id": "paper-01",
     "title": "Passive Pauli Toggling of Polarization Qubits in Optical Fibers: Error Bounds and QKD Performance",
     "url": "https://arxiv.org/abs/2609.21373",
@@ -287,9 +309,9 @@
   },
   {
     "id": "paper-15",
-    "title": "Universality cost of non-Gaussian enhancement in continuous-variable quantum teleportation: A fidelity--deviation trade-off",
-    "url": "https://arxiv.org/abs/2604.20103",
-    "venue": "arXiv:2604.20103",
+    "title": "Universality cost of non-Gaussian enhancement in continuous-variable quantum teleportation: A fidelity-deviation trade-off",
+    "url": "https://doi.org/10.1103/925y-7c59",
+    "venue": "Physical Review A 114, 033725",
     "authors": [
       "Kyoungho Cho",
       "Bongjune Kim",
@@ -300,9 +322,10 @@
     ],
     "selected": false,
     "verified": true,
-    "status": "preprint",
+    "status": "published",
     "year": 2026,
-    "date": "2026-04-22",
+    "date": "2026-09-21",
+    "doi": "https://doi.org/10.1103/925y-7c59",
     "arxiv": "https://arxiv.org/abs/2604.20103"
   },
   {
@@ -407,9 +430,9 @@
   },
   {
     "id": "paper-21",
-    "title": "Quantum Interference Needs Convention: Overlap-Determinability and Unified No-Superposition Principle",
-    "url": "https://arxiv.org/abs/2601.14638",
-    "venue": "arXiv:2601.14638",
+    "title": "Quantum interference conventions: Overlap determinability and the unified no-superposition principle",
+    "url": "https://doi.org/10.1103/s3mc-38zd",
+    "venue": "Physical Review A 114, 032447",
     "authors": [
       "Jeongho Bang",
       "Kyoungho Cho",
@@ -420,9 +443,10 @@
     ],
     "selected": false,
     "verified": true,
-    "status": "preprint",
+    "status": "published",
     "year": 2026,
-    "date": "2026-01-21",
+    "date": "2026-09-22",
+    "doi": "https://doi.org/10.1103/s3mc-38zd",
     "arxiv": "https://arxiv.org/abs/2601.14638"
   },
   {
@@ -492,8 +516,8 @@
   {
     "id": "paper-25",
     "title": "Secure PAC Learning: Sample-Budget Laws and Quantum Data-Path Admissibility",
-    "url": "https://arxiv.org/abs/2511.02479",
-    "venue": "arXiv:2511.02479",
+    "url": "https://doi.org/10.1088/2058-9565/aea01e",
+    "venue": "Quantum Science and Technology 11, 045054",
     "authors": [
       "Jeongho Bang"
     ],
@@ -503,9 +527,10 @@
     ],
     "selected": false,
     "verified": true,
-    "status": "preprint",
-    "year": 2025,
-    "date": "2025-11-04",
+    "status": "published",
+    "year": 2026,
+    "date": "2026-09-25",
+    "doi": "https://doi.org/10.1088/2058-9565/aea01e",
     "arxiv": "https://arxiv.org/abs/2511.02479"
   },
   {
