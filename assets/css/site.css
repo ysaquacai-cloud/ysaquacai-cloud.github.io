@@ -25,7 +25,7 @@ body {
   background: var(--paper);
   color: var(--ink);
   font-family: 'DM Sans', Arial, sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.7;
   -webkit-font-smoothing: antialiased
 }
@@ -110,7 +110,7 @@ img {
 }
 
 .eyebrow {
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 700;
   letter-spacing: .16em;
   line-height: 1.5;
@@ -127,7 +127,7 @@ img {
 }
 
 .lead {
-  font-size: 19px;
+  font-size: 21px;
   line-height: 1.7;
   color: var(--muted);
   max-width: 720px
@@ -216,7 +216,7 @@ nav#primary-navigation {
   display: flex;
   align-items: center;
   gap: 30px;
-  font-size: 13px;
+  font-size: 15px;
   font-weight: 500
 }
 
@@ -250,9 +250,7 @@ nav#primary-navigation a[aria-current=page]:after {
   grid-template-columns: 1.08fr 1fr;
   align-items: center;
   gap: 20px;
-  min-height: 680px;
-  padding-top: 46px;
-  padding-bottom: 46px
+  padding: 36px 0
 }
 
 .tiny-square {
@@ -266,23 +264,25 @@ nav#primary-navigation a[aria-current=page]:after {
 
 .hero h1 {
   font-size: clamp(44px, 4.55vw, 66px);
-  margin: 24px 0;
+  margin: 18px 0;
   line-height: 1.13;
   letter-spacing: -.055em
 }
 
 .hero h1 em {
+  display: block;
+  margin-top: .2em;
   white-space: nowrap
 }
 
 .hero-subtitle {
-  font-size: 17px;
+  font-size: 19px;
   font-weight: 600;
   line-height: 1.55
 }
 
 .hero-description {
-  font-size: 15px;
+  font-size: 17px;
   color: var(--muted);
   max-width: 430px;
   margin-top: 18px;
@@ -305,7 +305,7 @@ nav#primary-navigation a[aria-current=page]:after {
   padding: 14px 21px;
   background: var(--teal);
   color: white;
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 600;
   border: 1px solid var(--teal);
   border-radius: 2px;
@@ -319,7 +319,7 @@ nav#primary-navigation a[aria-current=page]:after {
 }
 
 .text-link {
-  font-size: 13px;
+  font-size: 15px;
   font-weight: 600;
   border-bottom: 1px solid var(--line);
   padding-bottom: 5px
@@ -331,7 +331,9 @@ nav#primary-navigation a[aria-current=page]:after {
 }
 
 .hero-figure img {
-  width: 100%
+  width: 100%;
+  max-height: 530px;
+  object-fit: contain
 }
 
 .hero-figure figcaption {
@@ -377,13 +379,12 @@ nav#primary-navigation a[aria-current=page]:after {
 }
 
 .intro-strip p:last-child {
-  font-size: 13px;
+  font-size: 15px;
   color: var(--muted)
 }
 
 .section {
-  padding-top: 91px;
-  padding-bottom: 91px
+  padding: clamp(42px, 5vw, 68px) 0
 }
 
 .section-heading {
@@ -391,7 +392,7 @@ nav#primary-navigation a[aria-current=page]:after {
   align-items: flex-end;
   justify-content: space-between;
   gap: 30px;
-  margin-bottom: 42px
+  margin-bottom: 32px
 }
 
 .section-heading h2 {
@@ -412,7 +413,7 @@ nav#primary-navigation a[aria-current=page]:after {
   display: flex;
   flex-direction: column;
   transition: background .2s;
-  min-height: 290px
+  min-height: 250px
 }
 
 .research-card:hover {
@@ -425,7 +426,7 @@ nav#primary-navigation a[aria-current=page]:after {
   justify-content: space-between;
   font-size: 12px;
   color: var(--teal);
-  margin-bottom: 44px
+  margin-bottom: 30px
 }
 
 .card-top span:last-child {
@@ -440,7 +441,7 @@ nav#primary-navigation a[aria-current=page]:after {
 }
 
 .research-card p {
-  font-size: 13px;
+  font-size: 15px;
   color: var(--muted);
   line-height: 1.75;
   margin-top: 15px
@@ -466,7 +467,7 @@ nav#primary-navigation a[aria-current=page]:after {
 }
 
 .publication {
-  padding: 26px 0;
+  padding: 20px 0;
   border-top: 1px solid var(--line);
   scroll-margin-top: 120px;
   overflow-wrap: anywhere
@@ -476,9 +477,9 @@ nav#primary-navigation a[aria-current=page]:after {
   display: flex;
   align-items: center;
   gap: 14px;
-  font-size: 11px;
+  font-size: 13px;
   color: var(--muted);
-  margin-bottom: 15px
+  margin-bottom: 10px
 }
 
 .status {
@@ -486,7 +487,7 @@ nav#primary-navigation a[aria-current=page]:after {
   color: #22604a;
   background: #e4f0e9;
   padding: 2px 8px;
-  font-size: 9px;
+  font-size: 11px;
   text-transform: uppercase;
   font-weight: 600;
   letter-spacing: .07em
@@ -499,7 +500,7 @@ nav#primary-navigation a[aria-current=page]:after {
 }
 
 .publication h3 {
-  font-size: 21px;
+  font-size: 23px;
   line-height: 1.4;
   letter-spacing: -.03em
 }
@@ -510,15 +511,15 @@ nav#primary-navigation a[aria-current=page]:after {
 }
 
 .authors {
-  font-size: 12px;
+  font-size: 15px;
   line-height: 1.7;
   color: var(--muted);
-  margin-top: 12px
+  margin-top: 8px
 }
 
 .venue {
-  font-size: 12px;
-  margin-top: 8px;
+  font-size: 14px;
+  margin-top: 5px;
   color: var(--muted)
 }
 
@@ -526,8 +527,8 @@ nav#primary-navigation a[aria-current=page]:after {
   display: flex;
   flex-wrap: wrap;
   gap: 18px;
-  margin-top: 20px;
-  font-size: 12px;
+  margin-top: 14px;
+  font-size: 14px;
   font-weight: 600;
   color: var(--teal)
 }
@@ -539,7 +540,7 @@ nav#primary-navigation a[aria-current=page]:after {
 
 .selected-grid .paper-links {
   margin-top: auto;
-  padding-top: 24px
+  padding-top: 16px
 }
 
 .news-row {
@@ -617,7 +618,7 @@ nav#primary-navigation a[aria-current=page]:after {
 }
 
 .site-footer {
-  padding-top: 60px;
+  padding-top: 44px;
   background: #f0f4f1
 }
 
@@ -669,8 +670,7 @@ nav#primary-navigation a[aria-current=page]:after {
 }
 
 .page-hero {
-  padding-top: 75px;
-  padding-bottom: 64px
+  padding: clamp(32px, 5vw, 56px) 0 clamp(28px, 4vw, 44px)
 }
 
 .page-hero h1 {
@@ -708,13 +708,13 @@ nav#primary-navigation a[aria-current=page]:after {
   grid-template-columns: 1fr 2fr;
   gap: 60px;
   border-bottom: 1px solid var(--line);
-  padding: 75px 0;
+  padding: 52px 0;
   scroll-margin-top: 100px
 }
 
 .research-detail:last-child {
   border-bottom: 0;
-  padding-bottom: 100px
+  padding-bottom: 60px
 }
 
 .large-number {
@@ -741,7 +741,6 @@ nav#primary-navigation a[aria-current=page]:after {
 }
 
 .research-detail p:not(.eyebrow):not(.lead) {
-  font-size: 15px;
   color: var(--muted)
 }
 
@@ -774,7 +773,7 @@ nav#primary-navigation a[aria-current=page]:after {
   gap: 25px;
   border-top: 1px solid var(--line);
   padding: 15px 0;
-  font-size: 13px
+  font-size: 15px
 }
 
 .related-papers a>span:last-child {
@@ -782,7 +781,7 @@ nav#primary-navigation a[aria-current=page]:after {
 }
 
 .bibliography {
-  padding-bottom: 90px
+  padding-bottom: 60px
 }
 
 .publication-tools {
@@ -797,7 +796,7 @@ nav#primary-navigation a[aria-current=page]:after {
 
 .publication-tools label {
   display: block;
-  font-size: 11px;
+  font-size: 13px;
   font-weight: 600;
   margin-bottom: 8px
 }
@@ -810,21 +809,21 @@ nav#primary-navigation a[aria-current=page]:after {
   color: var(--ink);
   height: 45px;
   padding: 8px 12px;
-  font-size: 14px;
+  font-size: 16px;
   border-radius: 0
 }
 
 .publication-tools>p {
-  font-size: 12px;
+  font-size: 14px;
   color: var(--muted);
   padding-bottom: 12px;
   min-width: 105px
 }
 
 .bibliography-note {
-  font-size: 12px;
+  font-size: 14px;
   color: var(--muted);
-  margin: 20px 0 55px
+  margin: 16px 0 32px
 }
 
 .publication-section-title {
@@ -844,15 +843,15 @@ nav#primary-navigation a[aria-current=page]:after {
 }
 
 .publication-group+.publication-group {
-  margin-top: 70px
+  margin-top: 48px
 }
 
 .year-nav {
   display: flex;
   gap: 20px;
   flex-wrap: wrap;
-  font-size: 12px;
-  margin: 24px 0 35px
+  font-size: 14px;
+  margin: 16px 0 24px
 }
 
 .year-nav a {
@@ -874,10 +873,6 @@ nav#primary-navigation a[aria-current=page]:after {
   border-top: 1px solid var(--line);
   padding-top: 28px;
   color: var(--teal)
-}
-
-.publication-year .publication {
-  padding-bottom: 30px
 }
 
 .empty-state {
@@ -985,7 +980,7 @@ nav#primary-navigation a[aria-current=page]:after {
 }
 
 .person-interests {
-  font-size: 13px;
+  font-size: 15px;
   line-height: 1.8;
   color: var(--muted);
   margin-top: 15px
@@ -1032,7 +1027,6 @@ nav#primary-navigation a[aria-current=page]:after {
 }
 
 .profile-section>p {
-  font-size: 15px;
   color: var(--muted);
   margin-bottom: 18px
 }
@@ -1079,7 +1073,6 @@ nav#primary-navigation a[aria-current=page]:after {
 }
 
 .contact-topic p {
-  font-size: 15px;
   color: var(--muted);
   margin-bottom: 20px
 }
@@ -1096,7 +1089,7 @@ nav#primary-navigation a[aria-current=page]:after {
 }
 
 .contact-panel>p:not(.eyebrow) {
-  font-size: 14px;
+  font-size: 16px;
   color: var(--muted)
 }
 
@@ -1145,10 +1138,6 @@ nav#primary-navigation a[aria-current=page]:after {
 }
 
 @media(min-width:1600px) {
-  .hero-grid {
-    min-height: 760px
-  }
-
   .hero h1 {
     font-size: 70px
   }
@@ -1164,8 +1153,7 @@ nav#primary-navigation a[aria-current=page]:after {
   }
 
   .hero-grid {
-    gap: 0;
-    min-height: 620px
+    gap: 0
   }
 
   .hero h1 {
@@ -1217,11 +1205,18 @@ nav#primary-navigation a[aria-current=page]:after {
   .header-inner {
     min-height: 82px;
     flex-wrap: wrap;
-    padding: 18px 0
+    padding: 14px 0;
+    gap: 12px
   }
 
   .brand {
-    font-size: 23px
+    font-size: 23px;
+    flex: 1;
+    min-width: 0
+  }
+
+  .brand-mark {
+    flex-shrink: 0
   }
 
   .brand small {
@@ -1266,8 +1261,7 @@ nav#primary-navigation a[aria-current=page]:after {
   }
 
   .hero-grid {
-    grid-template-columns: 1fr 1fr;
-    min-height: 590px
+    grid-template-columns: 1fr 1fr
   }
 
   .hero h1 {
@@ -1279,11 +1273,11 @@ nav#primary-navigation a[aria-current=page]:after {
   }
 
   .hero-subtitle {
-    font-size: 15px
+    font-size: 17px
   }
 
   .hero-description {
-    font-size: 13px
+    font-size: 16px
   }
 
   .hero .actions {
@@ -1313,16 +1307,12 @@ nav#primary-navigation a[aria-current=page]:after {
     grid-column: 1/-1
   }
 
-  .section {
-    padding: 65px 0
-  }
-
   .selected-grid {
     gap: 20px
   }
 
   .selected-grid .publication h3 {
-    font-size: 18px
+    font-size: 21px
   }
 
   .contact-band h2 {
@@ -1386,8 +1376,7 @@ nav#primary-navigation a[aria-current=page]:after {
 
   .hero-grid {
     grid-template-columns: 1fr;
-    padding-top: 42px;
-    padding-bottom: 35px
+    padding: 32px 0
   }
 
   .hero h1 {
@@ -1396,12 +1385,7 @@ nav#primary-navigation a[aria-current=page]:after {
   }
 
   .hero-description {
-    font-size: 14px;
     max-width: none
-  }
-
-  .hero-subtitle {
-    font-size: 16px
   }
 
   .hero-figure {
@@ -1440,10 +1424,6 @@ nav#primary-navigation a[aria-current=page]:after {
     font-size: 22px
   }
 
-  .intro-strip p:last-child {
-    font-size: 13px
-  }
-
   .section-heading {
     display: block;
     margin-bottom: 30px
@@ -1464,7 +1444,7 @@ nav#primary-navigation a[aria-current=page]:after {
 
   .research-card {
     padding: 20px 15px;
-    min-height: 275px
+    min-height: 230px
   }
 
   .research-card h3 {
@@ -1472,7 +1452,7 @@ nav#primary-navigation a[aria-current=page]:after {
   }
 
   .research-card p {
-    font-size: 12px
+    font-size: 14px
   }
 
   .card-top {
@@ -1485,15 +1465,11 @@ nav#primary-navigation a[aria-current=page]:after {
   }
 
   .selected-grid .publication {
-    padding: 24px 0 30px
+    padding: 20px 0
   }
 
   .selected-grid .publication h3 {
     font-size: 22px
-  }
-
-  .selected-grid .paper-links {
-    padding-top: 20px
   }
 
   .news-row {
@@ -1543,17 +1519,13 @@ nav#primary-navigation a[aria-current=page]:after {
     gap: 8px
   }
 
-  .page-hero {
-    padding: 45px 0
-  }
-
   .page-hero h1 {
     font-size: 40px;
     line-height: 1.16
   }
 
   .page-hero .lead {
-    font-size: 16px
+    font-size: 18px
   }
 
   .theme-nav {
@@ -1572,7 +1544,7 @@ nav#primary-navigation a[aria-current=page]:after {
   .research-detail {
     grid-template-columns: 1fr;
     gap: 25px;
-    padding: 48px 0
+    padding: 36px 0
   }
 
   .research-label {
@@ -1608,10 +1580,6 @@ nav#primary-navigation a[aria-current=page]:after {
     grid-column: auto
   }
 
-  .bibliography-note {
-    margin-bottom: 35px
-  }
-
   .publication-section-title h2 {
     font-size: 26px
   }
@@ -1627,7 +1595,7 @@ nav#primary-navigation a[aria-current=page]:after {
   }
 
   .publication-year .publication h3 {
-    font-size: 20px
+    font-size: 22px
   }
 
   .year-nav {
@@ -1704,11 +1672,6 @@ nav#primary-navigation a[aria-current=page]:after {
 
   .news-archive {
     padding-bottom: 60px
-  }
-
-  .section {
-    padding-top: 55px;
-    padding-bottom: 55px
   }
 }
 

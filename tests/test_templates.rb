@@ -10,7 +10,7 @@ class TemplateRegressionTest < Minitest::Test
   end
   def test_accepted_records_have_a_rendering_group
     text = File.read(File.join(ROOT, 'publications/index.html'))
-    result = Liquid::Template.parse(text).render('site' => {'data' => {'publications'=>[{'id'=>'accepted-example','title'=>'Accepted paper','year'=>2026,'date'=>'2026-01-01','status'=>'accepted'}]}})
+    result = Liquid::Template.parse(text).render('site' => {'publication_start_year' => 2024, 'data' => {'publications'=>[{'id'=>'accepted-example','title'=>'Accepted paper','year'=>2026,'date'=>'2026-01-01','status'=>'accepted'}]}})
     assert_includes result, 'accepted-2026'
   end
 end

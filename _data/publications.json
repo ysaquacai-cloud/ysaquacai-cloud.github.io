@@ -1,5 +1,77 @@
 [
   {
+    "id": "paper-63",
+    "title": "Optimizing path-polarization interconversion on a photonic circuit for secure quantum communication",
+    "url": "https://link.springer.com/article/10.1140/epjqt/s40507-026-00542-7",
+    "venue": "EPJ Quantum Technology 13, 107",
+    "authors": [
+      "Kap-Joong Kim",
+      "Kyongchun Lim",
+      "Byung-Seok Choi",
+      "Wook-Jae Lee",
+      "Jong-Bum You",
+      "Young-Ho Ko",
+      "Joong-Seon Choe",
+      "Minchul Kim",
+      "Jeongho Bang",
+      "Joonwoo Bae",
+      "Chun Ju Youn"
+    ],
+    "themes": [
+      "communication"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2026,
+    "date": "2026-07-28",
+    "doi": "https://doi.org/10.1140/epjqt/s40507-026-00542-7"
+  },
+  {
+    "id": "paper-64",
+    "title": "Quantum states generation and manipulation in a programmable silicon-photonic four-qubit system with high-fidelity and purity",
+    "url": "https://pubs.aip.org/aip/app/article/9/7/076110/3303576/Quantum-states-generation-and-manipulation-in-a",
+    "venue": "APL Photonics 9, 076110",
+    "authors": [
+      "Jong-Moo Lee",
+      "Jiho Park",
+      "Jeongho Bang",
+      "Young-Ik Sohn",
+      "Alessio Baldazzi",
+      "Matteo Sanna",
+      "Stefano Azzini",
+      "Lorenzo Pavesi"
+    ],
+    "themes": [
+      "computing",
+      "communication"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2024,
+    "date": "2024-07-16",
+    "doi": "https://doi.org/10.1063/5.0207714"
+  },
+  {
+    "id": "paper-65",
+    "title": "Binary black holes and quantum off-shell recursion",
+    "url": "https://link.springer.com/article/10.1007/JHEP05(2024)050",
+    "venue": "Journal of High Energy Physics 2024, 050",
+    "authors": [
+      "Kyoungho Cho",
+      "Kwangeon Kim",
+      "Kanghoon Lee"
+    ],
+    "themes": [],
+    "selected": false,
+    "verified": true,
+    "status": "published",
+    "year": 2024,
+    "date": "2024-05-06",
+    "doi": "https://doi.org/10.1007/JHEP05(2024)050"
+  },
+  {
     "id": "paper-62",
     "title": "The Classical Boundary of Quantum Computation: History-Resolved Causal Stochastic Machines and the Cost of Classicalization",
     "url": "https://arxiv.org/abs/2610.22750",
@@ -685,8 +757,8 @@
   {
     "id": "paper-33",
     "title": "Resource-compact time-optimal quantum computation",
-    "url": "https://arxiv.org/abs/2405.00191",
-    "venue": "arXiv:2405.00191",
+    "url": "https://link.springer.com/article/10.1007/s11128-025-04797-4",
+    "venue": "Quantum Information Processing 24, 193",
     "authors": [
       "Taewan Kim",
       "Kyunghyun Baek",
@@ -698,9 +770,10 @@
     ],
     "selected": false,
     "verified": true,
-    "status": "preprint",
-    "year": 2024,
-    "date": "2024-04-30",
+    "status": "published",
+    "year": 2025,
+    "date": "2025-06-23",
+    "doi": "https://doi.org/10.1007/s11128-025-04797-4",
     "arxiv": "https://arxiv.org/abs/2405.00191"
   },
   {

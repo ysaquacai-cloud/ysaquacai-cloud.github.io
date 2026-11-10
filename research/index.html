@@ -1,8 +1,7 @@
 ---
 title: Research
 nav: Research
-description: Four connected research directions in quantum information, quantum algorithms, machine learning,
-communication, and sensing.
+description: Four connected research directions in quantum information, quantum algorithms, machine learning, communication, and sensing.
 ---
 <section class="page-hero container">
     <p class="eyebrow">OUR RESEARCH</p>
@@ -12,6 +11,7 @@ communication, and sensing.
 </section>
 <div class="container theme-nav" aria-label="Research topics">{% for theme in site.data.research %}<a
         href="#{{ theme.id }}">{{ theme.number }} <span>{{ theme.title }}</span> ↓</a>{% endfor %}</div>
+{% assign recent_papers = site.data.publications | where_exp: 'paper', 'paper.year >= site.publication_start_year' %}
 <div class="container">{% for theme in site.data.research %}<section class="research-detail" id="{{ theme.id }}">
         <div class="research-label"><span class="large-number">{{ theme.number }}</span></div>
         <div>
@@ -20,7 +20,7 @@ communication, and sensing.
             <p>{{ theme.description }}</p>
             <ul class="focus-list">{% for focus in theme.focus %}<li>{{ focus }}</li>{% endfor %}</ul>
             <h3 class="related-label">Related work</h3>
-            <div class="related-papers">{% for id in theme.papers %}{% assign paper = site.data.publications | where:
+            <div class="related-papers">{% for id in theme.papers %}{% assign paper = recent_papers | where:
                 'id', id | first %}{% if paper %}<a href="{{ '/publications/' | relative_url }}#{{ paper.id }}"><span>{{
                         paper.title | escape }}</span><span aria-hidden="true">↗</span></a>{% endif %}{% endfor %}</div>
         </div>
