@@ -1,13 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap');
 
 :root {
-  --ink: #153342;
-  --muted: #536772;
-  --teal: #087d77;
-  --line: #d8e2e3;
-  --paper: #f8faf8;
-  --soft: #edf3f1;
-  --navy: #102e3b;
   --max: 1240px
 }
 
@@ -90,7 +83,7 @@ a:focus-visible,
 button:focus-visible,
 input:focus-visible,
 select:focus-visible {
-  outline: 3px solid #c57124;
+  outline: 3px solid var(--focus-ring);
   outline-offset: 5px
 }
 
@@ -140,7 +133,7 @@ img {
   z-index: 100;
   transform: translateY(-200%);
   background: var(--ink);
-  color: white;
+  color: var(--on-dark);
   padding: 10px 20px
 }
 
@@ -149,7 +142,7 @@ img {
 }
 
 .site-header {
-  background: rgba(248, 250, 248, .97);
+  background: var(--header-background);
   border-bottom: 1px solid var(--line);
   position: sticky;
   top: 0;
@@ -242,7 +235,7 @@ nav#primary-navigation a[aria-current=page]:after {
 
 .hero {
   overflow: hidden;
-  background: radial-gradient(ellipse at 87% 40%, #e8f1ed 0, transparent 52%)
+  background: radial-gradient(ellipse at 87% 40%, var(--accent-soft) 0, transparent 52%)
 }
 
 .hero-grid {
@@ -304,7 +297,7 @@ nav#primary-navigation a[aria-current=page]:after {
   gap: 25px;
   padding: 14px 21px;
   background: var(--teal);
-  color: white;
+  color: var(--on-dark);
   font-size: 14px;
   font-weight: 600;
   border: 1px solid var(--teal);
@@ -313,8 +306,8 @@ nav#primary-navigation a[aria-current=page]:after {
 }
 
 .button:hover {
-  background: #075b58;
-  color: white;
+  background: var(--accent-hover);
+  color: var(--on-dark);
   transform: translateY(-2px)
 }
 
@@ -340,7 +333,7 @@ nav#primary-navigation a[aria-current=page]:after {
   display: flex;
   justify-content: space-between;
   gap: 16px;
-  border-top: 1px solid #c7d8d6;
+  border-top: 1px solid var(--figure-border);
   padding-top: 15px;
   margin: 0 22px;
   font-size: 9px;
@@ -355,7 +348,7 @@ nav#primary-navigation a[aria-current=page]:after {
 .intro-strip {
   border-top: 1px solid var(--line);
   border-bottom: 1px solid var(--line);
-  background: white
+  background: var(--surface)
 }
 
 .intro-strip .container {
@@ -417,7 +410,7 @@ nav#primary-navigation a[aria-current=page]:after {
 }
 
 .research-card:hover {
-  background: #e8f1ed;
+  background: var(--accent-soft);
   color: var(--ink)
 }
 
@@ -483,9 +476,9 @@ nav#primary-navigation a[aria-current=page]:after {
 }
 
 .status {
-  border: 1px solid #a4c8bb;
-  color: #22604a;
-  background: #e4f0e9;
+  border: 1px solid var(--published-border);
+  color: var(--published-text);
+  background: var(--published-background);
   padding: 2px 8px;
   font-size: 11px;
   text-transform: uppercase;
@@ -494,9 +487,9 @@ nav#primary-navigation a[aria-current=page]:after {
 }
 
 .status.preprint {
-  border-color: #cbd5dc;
-  color: #456172;
-  background: #e9eef2
+  border-color: var(--preprint-border);
+  color: var(--preprint-text);
+  background: var(--preprint-background)
 }
 
 .publication h3 {
@@ -580,7 +573,7 @@ nav#primary-navigation a[aria-current=page]:after {
 
 .contact-band {
   background: var(--navy);
-  color: white;
+  color: var(--on-dark);
   padding: 62px 0
 }
 
@@ -592,7 +585,7 @@ nav#primary-navigation a[aria-current=page]:after {
 }
 
 .contact-band .eyebrow {
-  color: #8ec9b9
+  color: var(--dark-accent)
 }
 
 .contact-band h2 {
@@ -602,24 +595,24 @@ nav#primary-navigation a[aria-current=page]:after {
 
 .contact-band p:not(.eyebrow) {
   font-size: 14px;
-  color: #b9c9ce;
+  color: var(--dark-muted);
   margin-top: 13px
 }
 
 .button.light {
-  background: #e7f1ed;
+  background: var(--light-button-background);
   color: var(--ink);
-  border-color: #e7f1ed;
+  border-color: var(--light-button-background);
   white-space: nowrap
 }
 
 .button.light:hover {
-  background: white
+  background: var(--surface)
 }
 
 .site-footer {
   padding-top: 44px;
-  background: #f0f4f1
+  background: var(--footer-background)
 }
 
 .footer-grid {
@@ -721,7 +714,7 @@ nav#primary-navigation a[aria-current=page]:after {
   font-family: Manrope, sans-serif;
   font-size: 110px;
   font-weight: 400;
-  color: #b7d2c9;
+  color: var(--decorative-text);
   letter-spacing: -6px;
   line-height: 1
 }
@@ -791,7 +784,7 @@ nav#primary-navigation a[aria-current=page]:after {
   align-items: end;
   border: 1px solid var(--line);
   padding: 24px;
-  background: white
+  background: var(--surface)
 }
 
 .publication-tools label {
@@ -804,8 +797,8 @@ nav#primary-navigation a[aria-current=page]:after {
 .publication-tools input,
 .publication-tools select {
   width: 100%;
-  border: 1px solid #b8c9cc;
-  background: #f8faf8;
+  border: 1px solid var(--input-border);
+  background: var(--paper);
   color: var(--ink);
   height: 45px;
   padding: 8px 12px;
@@ -904,7 +897,7 @@ nav#primary-navigation a[aria-current=page]:after {
 .pi-monogram {
   aspect-ratio: 1;
   background: var(--navy);
-  color: #b5d7cc;
+  color: var(--portrait-text);
   font-family: Manrope, sans-serif;
   font-size: 80px;
   display: flex;
@@ -947,7 +940,7 @@ nav#primary-navigation a[aria-current=page]:after {
 
 .person-card {
   border: 1px solid var(--line);
-  background: white;
+  background: var(--surface);
   padding: 28px;
   display: flex;
   flex-direction: column;
@@ -1104,7 +1097,7 @@ nav#primary-navigation a[aria-current=page]:after {
 
 .contact-panel hr {
   border: 0;
-  border-top: 1px solid #cbdad5;
+  border-top: 1px solid var(--panel-border);
   margin: 30px 0
 }
 

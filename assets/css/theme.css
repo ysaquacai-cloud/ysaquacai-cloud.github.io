@@ -1,0 +1,92 @@
+/*
+ * Website color palette. Edit this file to change the site's UI colors.
+ * Start with --teal for links, buttons, and accents.
+ * Save and refresh your local preview, or rebuild/deploy the live site.
+ * Image artwork (SVGs and photos) has its own embedded colors.
+ */
+:root {
+  /* Main palette */
+  --teal: #087d77;   /* Accent color */
+  --ink: #153342;    /* Main text */
+  --muted: #536772;  /* Secondary text */
+  --paper: #f8faf8;  /* Page background */
+  --soft: #edf3f1;   /* Highlighted sections and panels */
+  --navy: #102e3b;   /* Dark sections */
+  --line: #d8e2e3;   /* Borders and dividers */
+  --surface: #ffffff; /* Cards and form panels */
+  --on-dark: #ffffff; /* Text on dark sections and buttons */
+
+  /* Accent variants and keyboard focus */
+  --accent-hover: #075b58;
+  --accent-soft: #e8f1ed;
+  --focus-ring: #c57124;
+  --light-button-background: #e7f1ed;
+  --dark-accent: #8ec9b9;
+  --dark-muted: #b9c9ce;
+
+  /* Supporting surfaces and details */
+  --header-background: color-mix(in srgb, var(--paper) 97%, transparent);
+  --footer-background: #f0f4f1;
+  --figure-border: #c7d8d6;
+  --input-border: #b8c9cc;
+  --panel-border: #cbdad5;
+  --decorative-text: #b7d2c9;
+  --portrait-text: #b5d7cc;
+
+  /* Publication badges */
+  --published-text: #22604a;
+  --published-background: #e4f0e9;
+  --published-border: #a4c8bb;
+  --preprint-text: #456172;
+  --preprint-background: #e9eef2;
+  --preprint-border: #cbd5dc;
+}
+
+/*
+ * Optional Yonsei blue palette
+ *
+ * To enable, remove the opening comment marker on the line before :root
+ * below and the closing marker after its final brace. Save this file.
+ * This later :root block overrides the palette above.
+ *
+ * Uses your supplied #00205B as the main blue, with white and silver-gray
+ * neutrals following Yonsei's blue/white identity. Supporting shades are
+ * chosen for this website, rather than official university color values.
+ * University identity reference
+ * https://yonsei.ac.kr/en_sc/1801/subview.do
+ */
+/*
+:root {
+  --teal: #00205B;
+  --ink: #17243B;
+  --muted: #536078;
+  --paper: #FAFBFD;
+  --soft: #EDF1F7;
+  --navy: #00205B;
+  --line: #D5DCE7;
+  --surface: #FFFFFF;
+  --on-dark: #FFFFFF;
+
+  --accent-hover: #001640;
+  --accent-soft: #E6ECF5;
+  --focus-ring: #0057B8;
+  --light-button-background: #F0F3F8;
+  --dark-accent: #C8D8F0;
+  --dark-muted: #D4DDEB;
+
+  --header-background: color-mix(in srgb, var(--paper) 97%, transparent);
+  --footer-background: #F0F2F6;
+  --figure-border: #CBD5E4;
+  --input-border: #AEBBD0;
+  --panel-border: #CFD7E3;
+  --decorative-text: #B9C9E0;
+  --portrait-text: #CDDCF2;
+
+  --published-text: #00205B;
+  --published-background: #E7EDF7;
+  --published-border: #ADBFDB;
+  --preprint-text: #4F5B70;
+  --preprint-background: #EDF0F4;
+  --preprint-border: #C8CFDA;
+}
+*/
