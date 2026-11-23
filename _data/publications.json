@@ -1,5 +1,26 @@
 [
   {
+    "id": "paper-68",
+    "title": "A Spin-Glass Metabolic Hamiltonian optimized by Quantum Annealing Reveals Configurational Regimes of Cancer Metabolism",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.04.05.715441",
+    "venue": "bioRxiv:2026.04.05.715441",
+    "authors": [
+      "Ji-Yong Sung",
+      "Kyunghyun Baek",
+      "Inbeom Park",
+      "Jeongho Bang",
+      "Jae-Ho Cheong"
+    ],
+    "themes": [
+      "computing"
+    ],
+    "selected": false,
+    "verified": true,
+    "status": "preprint",
+    "year": 2026,
+    "date": "2026-04-07"
+  },
+  {
     "id": "paper-63",
     "title": "Optimizing path-polarization interconversion on a photonic circuit for secure quantum communication",
     "url": "https://link.springer.com/article/10.1140/epjqt/s40507-026-00542-7",
@@ -135,8 +156,8 @@
   {
     "id": "paper-03",
     "title": "Coherence-generating power deviation: Fluctuations and input selectivity beyond average coherence generation",
-    "url": "https://arxiv.org/abs/2609.19046",
-    "venue": "arXiv:2609.19046",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375960126010121",
+    "venue": "Physics Letters A 601, 132340 (scheduled for 5 January 2027)",
     "authors": [
       "Kyoungho Cho",
       "Jeongho Bang"
@@ -146,9 +167,10 @@
     ],
     "selected": false,
     "verified": true,
-    "status": "preprint",
-    "year": 2026,
-    "date": "2026-07-21",
+    "status": "accepted",
+    "year": 2027,
+    "date": "2027-01-05",
+    "doi": "https://doi.org/10.1016/j.physleta.2026.132340",
     "arxiv": "https://arxiv.org/abs/2609.19046"
   },
   {
@@ -338,7 +360,7 @@
   },
   {
     "id": "paper-13",
-    "title": "Neural Information Causality",
+    "title": "Neural Information Causality: A Random-Access Capacity Law for Representation Learning",
     "url": "https://arxiv.org/abs/2605.09316",
     "venue": "arXiv:2605.09316",
     "authors": [
@@ -442,21 +464,21 @@
   },
   {
     "id": "paper-18",
-    "title": "Physics-Aware Learnability: From Set-Theoretic Independence to Operational Constraints",
+    "title": "Operational learnability under physical access constraints: Coarse-grained measurements and quantum copy complexity",
     "url": "https://arxiv.org/abs/2603.00417",
-    "venue": "arXiv:2603.00417",
+    "venue": "Physical Review A (journal version forthcoming)",
     "authors": [
-      "Jeongho Bang",
-      "Kyoungho Cho"
+      "Kyoungho Cho",
+      "Jeongho Bang"
     ],
     "themes": [
       "information"
     ],
     "selected": false,
     "verified": true,
-    "status": "preprint",
+    "status": "published",
     "year": 2026,
-    "date": "2026-02-28",
+    "date": "2026-11-13",
     "arxiv": "https://arxiv.org/abs/2603.00417"
   },
   {
